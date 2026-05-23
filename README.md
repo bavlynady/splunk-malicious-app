@@ -41,7 +41,7 @@ Splunk Runtime/
 
 ### 1. Install the App
 
-Install the app in Splunk.
+Install the compressed file app in Splunk.
 
 ---
 
